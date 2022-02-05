@@ -1,6 +1,6 @@
 # dehasher
 
-QOL script for querying DeHashed's API.
+QOL script for querying the DeHashed API.
 
 _Note: For performing API queries both a DeHashed account with an active subscription and API credits are required._ 
 
